@@ -1,0 +1,4 @@
+[submodule "GAHEOS/odoo-ec"]
+	path = GAHEOS/odoo-ec
+	url = git@github.com:GAHEOS/odoo-ec.git
+	branch = 14.0
