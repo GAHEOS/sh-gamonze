@@ -1,0 +1,14 @@
+[submodule "GAHEOS/odoo-ec"]
+	path = GAHEOS/odoo-ec
+	url = git@github.com:GAHEOS/odoo-ec.git
+	branch = 14.0
+
+[submodule "GAHEOS/odoo-latam"]
+	path = GAHEOS/odoo-latam
+	url = git@github.com:GAHEOS/odoo-latam.git
+	branch = 14.0
+
+[submodule "GAHEOS/odoo-insurance"]
+	path = GAHEOS/odoo-insurance
+	url = git@github.com:GAHEOS/odoo-insurance.git
+	branch = 14.0
